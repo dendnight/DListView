@@ -76,7 +76,7 @@ public class DListView extends ListView implements Runnable {
 					return true;
 				}
 			}
-			// mDistance = 0;
+			mDistance = 0;
 			break;
 		}
 		return super.onTouchEvent(event);
