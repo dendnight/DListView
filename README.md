@@ -1,5 +1,9 @@
 
-	DListView 
- 
-   Sliding damping !
+DListView 
+=================================== 
+
+-----------------------------------
+Sliding damping !
+
+### Author:	Dendnight
 
